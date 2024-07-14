@@ -1,0 +1,7 @@
+# ignore everything in sub dir
+*/*
+
+# but those files
+!*/README.md
+!*/*.ts
+!*/*.test.ts
